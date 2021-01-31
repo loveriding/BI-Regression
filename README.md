@@ -8,12 +8,6 @@
 
 - Start the python server, `python manage.py runserver`.
 
-- Go to `localhost:8000` and upload the `user_data.xls` file.
+- Go to `localhost:8000` and upload the 'csv' file.
 
-- Content will be displayed on page.
 
-- Refer below article for detailed information:
-
-    https://www.pythoncircle.com/post/591/how-to-upload-and-process-the-excel-file-in-django/
-
-![alt text](https://github.com/anuragrana/excel-file-upload-django/blob/master/excel-django.png)
